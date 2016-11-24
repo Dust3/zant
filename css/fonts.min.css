@@ -1,0 +1,45 @@
+@font-face {
+    font-family: roboto;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/wp-content/themes/zant/fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"), url(/wp-content/themes/zant/fonts/RobotoRegular/RobotoRegular.woff) format("woff"), url(/wp-content/themes/zant/fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: roboto;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/wp-content/themes/zant/fonts/RobotoBold/RobotoBold.eot?#iefix) format("embedded-opentype"), url(/wp-content/themes/zant/fonts/RobotoBold/RobotoBold.woff) format("woff"), url(/wp-content/themes/zant/fonts/RobotoBold/RobotoBold.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: "Gotham Pro Medium";
+    src: url("http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProMedium/GothamProMedium.eot");
+    src: url("http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProMedium/GothamProMedium.eot?#iefix")format("embedded-opentype"),
+    url("http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProMedium/GothamProMedium.svg") format("svg"),
+    url("http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProMedium/GothamProMedium.woff") format("woff"),
+    url("http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProMedium/GothamProMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Gotham Pro Lite";
+    font-style: normal;
+    font-weight: 400;
+    src: url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProLight/GothamPro-Light.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: "Gotham Pro";
+    font-style: normal;
+    font-weight: 400;
+    src: url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamPro/GothamPro.eot?#iefix) format("embedded-opentype"), url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamPro/GothamPro.woff) format("woff"), url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamPro/GothamPro.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: "Gotham Pro Bold";
+    font-style: normal;
+    font-weight: 400;
+    src: url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProBold/GothamPro-Bold.eot?#iefix) format("embedded-opentype"), url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProBold/GothamPro-Bold.woff) format("woff"), url(http://advocatezant.kz/wp-content/themes/zant/fonts/GothamProBold/GothamPro-Bold.ttf) format("truetype")
+}
